@@ -43,7 +43,7 @@ The Coffee Sales Dashboard is an Excel-based project designed to present insight
 * **Product Performance**: Identifies top-selling and underperforming products.
 * **Store Comparisons**: Evaluates operational performance across all three stores.
 
-### Tools and Technologies Used
+### Tools Used
 **Microsoft Excel**
 
 <img src="Microsoft_Office_Excel_Logo_128px.png" width="100" />&nbsp;
