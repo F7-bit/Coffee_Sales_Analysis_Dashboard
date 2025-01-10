@@ -45,4 +45,5 @@ The Coffee Sales Dashboard is an Excel-based project designed to present insight
 
 ### Tools and Technologies Used
 **Microsoft Excel**
-<img src="Microsoft_Office_Excel_Logo_128px.png"/>&nbsp;
+
+<img src="Microsoft_Office_Excel_Logo_128px.png" width="100" />&nbsp;
