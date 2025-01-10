@@ -22,8 +22,8 @@ The Coffee Sales Dashboard is an Excel-based project designed to present insight
 * Product: Barista Espresso leads in sales across all stores.
 
 4.**Low-Performing Products**
-*Certain flavors, coffee beans, and merchandise have lower sales.
-*Merchandise clothing at the Astoria store performs significantly worse compared to other locations.
+* Certain flavors, coffee beans, and merchandise have lower sales.
+* Merchandise clothing at the Astoria store performs significantly worse compared to other locations.
 
 ### Recommendations
 1.**Boost Sales for Low-Performing Products**
@@ -31,8 +31,8 @@ The Coffee Sales Dashboard is an Excel-based project designed to present insight
 * Consider removing these items from in-store displays and making them available on order only to reduce operational costs.
 
 2.**Operational Focus**
-*Allocate resources to capitalize on peak days and hours.
-*Ensure adequate stock for high-demand products like Barista Espresso.
+* Allocate resources to capitalize on peak days and hours.
+* Ensure adequate stock for high-demand products like Barista Espresso.
 
 ### Features of the Dashboard
 * **Revenue Analysis**: Tracks revenue trends over time.
