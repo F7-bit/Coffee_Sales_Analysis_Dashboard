@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard
+# Coffee Sales Analysis Dashboard
 
 ## Overview
 
@@ -8,6 +8,9 @@ The Coffee Sales Dashboard is an Excel-based project designed to present insight
 * Analyze sales performance across the three stores.
 * Identify trends in revenue, customer traffic, and product performance.
 * Provide actionable insights to enhance operational efficiency.
+
+### Dashboard Preview
+<img src="coffee_sales_dashboard.PNG"/>&nbsp;
 
 ### Key Insights
 1.**Revenue Growth**
