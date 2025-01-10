@@ -1,8 +1,8 @@
-# Coffee Sales Analysis Dashboard
+# Coffee Shop Sales Analysis (Dashboard)
 
 ## Overview
 
-The Coffee Sales Dashboard is an Excel-based project designed to present insights to the regional manager of a coffee chain with three different stores. The purpose of this dashboard is to facilitate discussions about store operations and identify opportunities for optimization.
+The Coffee Shop Sales Dashboard is an Excel-based project designed to present insights to the regional manager of a coffee chain with three different stores. The purpose of this dashboard is to facilitate discussions about store operations and identify opportunities for optimization.
 
 ### Objectives
 * Analyze sales performance across the three stores.
